@@ -2,3 +2,5 @@
 /.DS_Store
 /.classpath
 /bin/*
+/dependency-check-report.html
+
