@@ -72,16 +72,11 @@
             <version>1.58</version>
         </dependency>
 
-        <!-- Unknown dependencies -->
+        <!-- https://mvnrepository.com/artifact/com.payneteasy/ber-tlv -->
         <dependency>
-            <groupId>unknown.group</groupId>
+            <groupId>com.payneteasy</groupId>
             <artifactId>ber-tlv</artifactId>
             <version>1.0-8</version>
-        </dependency>
-        <dependency>
-            <groupId>unknown.group</groupId>
-            <artifactId>cardlib</artifactId>
-            <version>0.1.0</version>
         </dependency>
     </dependencies>
 </project>

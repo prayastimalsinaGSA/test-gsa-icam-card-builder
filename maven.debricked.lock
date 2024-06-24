@@ -1,32 +1,32 @@
-1039245740 com.example:example-project:jar:1.0-SNAPSHOT
-1482714257 javax.activation:activation:jar:1.1:compile
-540876179 commons-codec:commons-codec:jar:1.11:compile
-740950652 org.hamcrest:hamcrest-core:jar:1.3:compile
-294505405 org.apache.logging.log4j:log4j-api:jar:2.8.2:compile
-2107088180 org.apache.logging.log4j:log4j-core:jar:2.8.2:compile
-890160784 ch.qos.logback:logback-classic:jar:1.3.0-alpha4:compile
-1238047663 com.sun.mail:javax.mail:jar:1.6.0:runtime
-912584968 ch.qos.logback:logback-core:jar:1.3.0-alpha4:compile
-2010883277 org.slf4j:slf4j-api:jar:1.8.0-beta2:compile
-883087072 org.bouncycastle:bcmail-jdk15on:jar:1.58:compile
-623224248 org.bouncycastle:bcpkix-jdk15on:jar:1.58:compile
-878242981 org.bouncycastle:bcprov-jdk15on:jar:1.58:compile
-504355631 org.bouncycastle:bctls-jdk15on:jar:1.58:compile
-1010306008 unknown.group:ber-tlv:jar:1.0-8:compile
-884502914 unknown.group:cardlib:jar:0.1.0:compile
+636953520 com.example:example-project:jar:1.0-SNAPSHOT
+1252069894 javax.activation:activation:jar:1.1:compile
+1837602497 commons-codec:commons-codec:jar:1.11:compile
+48390515 org.hamcrest:hamcrest-core:jar:1.3:compile
+666769352 org.apache.logging.log4j:log4j-api:jar:2.8.2:compile
+742473724 org.apache.logging.log4j:log4j-core:jar:2.8.2:compile
+2099348779 ch.qos.logback:logback-classic:jar:1.3.0-alpha4:compile
+1826195973 com.sun.mail:javax.mail:jar:1.6.0:runtime
+999211009 ch.qos.logback:logback-core:jar:1.3.0-alpha4:compile
+513128019 org.slf4j:slf4j-api:jar:1.8.0-beta2:compile
+1869373559 org.bouncycastle:bcmail-jdk15on:jar:1.58:compile
+1338332733 org.bouncycastle:bcpkix-jdk15on:jar:1.58:compile
+42338572 org.bouncycastle:bcprov-jdk15on:jar:1.58:compile
+823263265 org.bouncycastle:bctls-jdk15on:jar:1.58:compile
+1039245740 com.payneteasy:ber-tlv:jar:1.0-8:compile
+1482714257 junit:junit:jar:4.11:compile
 #
+636953520 1252069894 compile
+636953520 1837602497 compile
+636953520 48390515 compile
+636953520 666769352 compile
+636953520 742473724 compile
+2099348779 1826195973 runtime
+636953520 2099348779 compile
+636953520 999211009 compile
+636953520 513128019 compile
+636953520 1869373559 compile
+636953520 1338332733 compile
+636953520 42338572 compile
+636953520 823263265 compile
 1039245740 1482714257 compile
-1039245740 540876179 compile
-1039245740 740950652 compile
-1039245740 294505405 compile
-1039245740 2107088180 compile
-890160784 1238047663 runtime
-1039245740 890160784 compile
-1039245740 912584968 compile
-1039245740 2010883277 compile
-1039245740 883087072 compile
-1039245740 623224248 compile
-1039245740 878242981 compile
-1039245740 504355631 compile
-1039245740 1010306008 compile
-1039245740 884502914 compile
+636953520 1039245740 compile
