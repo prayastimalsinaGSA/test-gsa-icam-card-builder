@@ -1,2 +1,32 @@
-1181041291 ISE:test-gsa-icam-card-builder:jar:1.0-SNAPSHOT
+1039245740 com.example:example-project:jar:1.0-SNAPSHOT
+1482714257 javax.activation:activation:jar:1.1:compile
+540876179 commons-codec:commons-codec:jar:1.11:compile
+740950652 org.hamcrest:hamcrest-core:jar:1.3:compile
+294505405 org.apache.logging.log4j:log4j-api:jar:2.8.2:compile
+2107088180 org.apache.logging.log4j:log4j-core:jar:2.8.2:compile
+890160784 ch.qos.logback:logback-classic:jar:1.3.0-alpha4:compile
+1238047663 com.sun.mail:javax.mail:jar:1.6.0:runtime
+912584968 ch.qos.logback:logback-core:jar:1.3.0-alpha4:compile
+2010883277 org.slf4j:slf4j-api:jar:1.8.0-beta2:compile
+883087072 org.bouncycastle:bcmail-jdk15on:jar:1.58:compile
+623224248 org.bouncycastle:bcpkix-jdk15on:jar:1.58:compile
+878242981 org.bouncycastle:bcprov-jdk15on:jar:1.58:compile
+504355631 org.bouncycastle:bctls-jdk15on:jar:1.58:compile
+1010306008 unknown.group:ber-tlv:jar:1.0-8:compile
+884502914 unknown.group:cardlib:jar:0.1.0:compile
 #
+1039245740 1482714257 compile
+1039245740 540876179 compile
+1039245740 740950652 compile
+1039245740 294505405 compile
+1039245740 2107088180 compile
+890160784 1238047663 runtime
+1039245740 890160784 compile
+1039245740 912584968 compile
+1039245740 2010883277 compile
+1039245740 883087072 compile
+1039245740 623224248 compile
+1039245740 878242981 compile
+1039245740 504355631 compile
+1039245740 1010306008 compile
+1039245740 884502914 compile
