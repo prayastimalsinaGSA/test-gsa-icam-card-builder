@@ -50,7 +50,8 @@ jobs:
           FOD_TENANT: ${{secrets.FOD_TENANT}}
           FOD_USER: ${{secrets.FOD_USER}}
           FOD_PASSWORD: ${{secrets.FOD_PAT}}
+          FOD_RELEASE: ${{secrets.FOD_RELEASE_ID}}
           
-          FOD_RELEASE: sample-eightball-HM:1.0
+          #FOD_RELEASE: sample-eightball-HM:1.0
           EXTRA_PACKAGE_OPTS: -oss
           DO_EXPORT: false
