@@ -53,5 +53,5 @@ jobs:
           FOD_RELEASE: ${{secrets.FOD_RELEASE_ID}}
           
           #FOD_RELEASE: sample-eightball-HM:1.0
-          EXTRA_PACKAGE_OPTS: -oss
+          EXTRA_PACKAGE_OPTS: -oss -bt none
           DO_EXPORT: false
